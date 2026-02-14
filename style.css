@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+.index-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 3rem;
+    background-color: rgb(118, 160, 197);
+    height: 100vh;
+}
+
+.main-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.index-btns{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.browse-btn, .sign-btn{
+    height: 3rem;
+    width: 5rem;
+    background-color: rgb(28, 12, 99);
+    color: rgb(165, 201, 232);
+}
