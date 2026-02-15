@@ -2,13 +2,20 @@
     margin: 0;
 }
 
-.index-main{
+:root{
+    --main-bg-color:rgb(112, 87, 32);
+    --secondary-color:rgba(29, 23, 5, 0.952);
+    --light-color:rgb(248, 209, 164);
+}
+
+.main{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     gap: 3rem;
-    background-color: rgb(118, 160, 197);
+    background-color: var(--main-bg-color);
+    background: radial-gradient(rgba(242, 143, 73, 0.6),rgb(112, 87, 32) 45%,black );
     height: 100vh;
 }
 
@@ -30,6 +37,43 @@
 .browse-btn, .sign-btn{
     height: 3rem;
     width: 5rem;
-    background-color: rgb(28, 12, 99);
-    color: rgb(165, 201, 232);
+    background-color: var(--secondary-color);
+    color: var(--light-color);
+}
+
+.navbar{
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    background-color:var(--secondary-color);
+    width: 100%;
+    height: 5rem;
+}
+
+.logo{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 2rem;
+}
+.nav-comp{
+    display: flex;
+    position: fixed;
+    right: 2.5rem;
+    gap: 2rem;
+    justify-content: flex-end;
+}
+
+.nav-comp li{
+    list-style-type: none;
+    color:var(--light-color) ;
+}
+
+.search{
+    width: 15rem;
+    height: 1rem;
+    padding: 0.5rem;
 }
