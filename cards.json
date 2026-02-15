@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lore-001",
+    "title": "The Weeping Tamarind Tree",
+    "place": "Kuttanad, Kerala, India",
+    "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+    "author": "Anonymous Villager",
+    "category": "Haunted Nature",
+    "intro": "In the flooded fields of Kuttanad stands a tamarind tree that villagers avoid after sunset. They say it weeps.",
+    "story": "Long ago, a young widow was accused of witchcraft during a season of failed harvests. Shunned and beaten, she sought refuge beneath the tamarind tree at the edge of the fields. One stormy night, she was found lifeless there. Since then, villagers say that when the monsoon winds blow, the tree drips not rainwater—but tears. Fishermen passing at dusk claim to hear a woman humming lullabies. Crops planted too close to the tree never thrive. Elders warn children not to mock the wind near it, for grief, they say, never truly leaves the soil."
+  },
+  {
+    "id": "lore-002",
+    "title": "The Lantern Woman of Jatinga",
+    "place": "Jatinga, Assam, India",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "author": "Oral Tradition",
+    "category": "Mysterious Apparition",
+    "intro": "During fog-heavy nights, a woman carrying a lantern is seen walking toward the cliffs of Jatinga.",
+    "story": "In the hills of Jatinga, where birds are known to fall from the sky during certain seasons, villagers speak of a silent woman wrapped in white. She appears only when the fog thickens and lights a lantern that glows unnaturally bright. Hunters once followed her, believing she would lead them to prey. Instead, she vanished at the edge of a cliff where many birds had fallen. Some believe she is the spirit of a grieving mother searching for her lost child. Others say she lures wandering souls away from danger. No one who sees her ever feels fear—only a strange calm."
+  },
+  {
+    "id": "lore-003",
+    "title": "The Whispering Fort Walls",
+    "place": "Golconda Fort, Hyderabad, India",
+    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e2",
+    "author": "Hyderabad Folklore",
+    "category": "Historical Echo",
+    "intro": "Visitors say the walls of Golconda Fort carry voices long after the crowds leave.",
+    "story": "Golconda’s stones have witnessed ambition, betrayal, and siege. It is said that during the fall of the fort, a loyal guard refused to reveal a secret passage to invading forces. Tortured within the inner chambers, he swore his silence to his last breath. Guides today demonstrate the famous acoustic system of the fort—but some claim that after sunset, claps echo differently. Soft murmurs, almost like warnings, drift through empty corridors. Security guards working night shifts report hearing footsteps where no one stands. Whether history imprinted itself on the stone or guilt lingers in the air, the fort does not sleep easily."
+  },
+  {
+    "id": "lore-004",
+    "title": "The Bride Who Never Left",
+    "place": "Bhangarh, Rajasthan, India",
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "author": "Rajasthan Oral Tales",
+    "category": "Cursed Love",
+    "intro": "In the ruins of Bhangarh, locals whisper about a bride whose wedding night never arrived.",
+    "story": "A beautiful princess of Bhangarh was once desired by a sorcerer who knew she would never love him. Enraged, he cast a spell meant to bind her heart. The magic backfired, bringing ruin upon the kingdom instead. On the eve of her wedding, war broke out and the palace fell. Some believe the princess still wanders the broken halls in bridal attire, waiting for ceremonies that never happened. Travelers claim that bangles can be heard clinking softly when the wind moves through the ruins. Authorities forbid entry after sunset—but stories rarely obey rules."
+  },
+  {
+    "id": "lore-005",
+    "title": "The Singing River Spirit",
+    "place": "Meghalaya, India",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "author": "Khasi Tradition",
+    "category": "Nature Spirit",
+    "intro": "Fishermen speak of a river that sings before claiming a life.",
+    "story": "In the mist-covered hills of Meghalaya flows a river locals treat with reverence. Elders say it is guarded by a spirit who sings softly at night. The melody is beautiful but sorrowful, drifting across the water like a warning. Those who ignore rituals and fish greedily often report hearing the song grow louder before sudden accidents occur—boats tipping, nets tangling. The Khasi believe the river spirit demands respect, not fear. Offerings of flowers are still placed along the banks during certain festivals. When the wind moves just right, the water almost hums."
+  }
+]
