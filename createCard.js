@@ -15,6 +15,26 @@ export let createCard=(cardData,cardsContainer)=>{
         title.innerText=cardDetail.title;
         cardContainer.appendChild(title);
 
+        const subTitle=document.createElement("div");
+
+        const place=document.createElement("p");
+        place.innerText=`Place: ${cardDetail.place}`;
+        subTitle.appendChild(place);
+
+        const author=document.createElement("p");
+        author.innerText=`Author: ${cardDetail.author}`;
+        subTitle.appendChild(author);
+
+        cardContainer.appendChild(subTitle);
+
+        const category=document.createElement("p");
+        category.innerText=`Category: ${cardDetail.category}`;
+        cardContainer.appendChild(category);
+
+        const intro=document.createElement("p");
+        intro.innerText=`${cardDetail.intro}...`;
+        cardContainer.appendChild(intro);
+
         cardsContainer.appendChild(cardContainer);
     }
 }
