@@ -12,27 +12,26 @@ export let createCard=(cardData,cardsContainer)=>{
         cardContainer.appendChild(cardImgContainer);
 
         const title=document.createElement("h1");
+        title.classList.add("title");
         title.innerText=cardDetail.title;
         cardContainer.appendChild(title);
 
         const subTitle=document.createElement("div");
+        subTitle.classList.add("sub-title");
 
         const place=document.createElement("p");
         place.innerText=`Place: ${cardDetail.place}`;
         subTitle.appendChild(place);
 
-        const author=document.createElement("p");
-        author.innerText=`Author: ${cardDetail.author}`;
-        subTitle.appendChild(author);
+        const category=document.createElement("p");
+        category.innerText=`Category: ${cardDetail.category}`;
+        subTitle.appendChild(category);
 
         cardContainer.appendChild(subTitle);
 
-        const category=document.createElement("p");
-        category.innerText=`Category: ${cardDetail.category}`;
-        cardContainer.appendChild(category);
-
         const intro=document.createElement("p");
-        intro.innerText=`${cardDetail.intro}...`;
+        intro.classList.add("intro");
+        intro.innerText=`${cardDetail.intro}..`;
         cardContainer.appendChild(intro);
 
         cardsContainer.appendChild(cardContainer);
