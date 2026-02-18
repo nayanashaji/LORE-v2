@@ -31,7 +31,7 @@ export let createCard=(cardData,cardsContainer)=>{
 
         const intro=document.createElement("p");
         intro.classList.add("intro");
-        intro.innerText=`${cardDetail.intro}..`;
+        intro.innerText=`"${cardDetail.intro}.."`;
         cardContainer.appendChild(intro);
 
         cardsContainer.appendChild(cardContainer);
