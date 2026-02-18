@@ -48,5 +48,106 @@
     "category": "Nature Spirit",
     "intro": "Fishermen speak of a river that sings before claiming a life.",
     "story": "In the mist-covered hills of Meghalaya flows a river locals treat with reverence. Elders say it is guarded by a spirit who sings softly at night. The melody is beautiful but sorrowful, drifting across the water like a warning. Those who ignore rituals and fish greedily often report hearing the song grow louder before sudden accidents occur—boats tipping, nets tangling. The Khasi believe the river spirit demands respect, not fear. Offerings of flowers are still placed along the banks during certain festivals. When the wind moves just right, the water almost hums."
+  },
+  {
+    "id": "lore-006",
+    "title": "The Bell That Rings at Dusk",
+    "place": "Madurai, Tamil Nadu, India",
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "author": "Temple Caretaker",
+    "category": "Sacred Mystery",
+    "intro": "In a small temple courtyard, a bell rings every evening — even when no one pulls the rope.",
+    "story": "The old stone temple once had a devoted priest who never missed the sunset ritual. When he passed, the village feared the evening prayers would cease. But on the first dusk after his funeral, the bell rang on its own. It has continued ever since. Locals believe devotion echoes longer than life itself."
+  },
+  {
+    "id": "lore-007",
+    "title": "The Silent Watchtower",
+    "place": "Jaisalmer, Rajasthan, India",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "author": "Desert Guide",
+    "category": "Desert Legend",
+    "intro": "A lone watchtower in the desert is said to glow faintly under moonlight.",
+    "story": "Built centuries ago to guard caravan routes, the tower once housed a young sentinel who fell in love with a merchant’s daughter. He waited nightly for her return, but she never came. Travelers say a faint golden light still flickers from the top on quiet nights, as though someone still keeps watch."
+  },
+  {
+    "id": "lore-008",
+    "title": "The Forest That Swallows Sound",
+    "place": "Wayanad, Kerala, India",
+    "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+    "author": "Local Trekker",
+    "category": "Nature Mystery",
+    "intro": "Deep in the forest, echoes vanish before they return.",
+    "story": "Hunters once tested the woods by shouting into the trees, but no echo answered back. They claimed the forest absorbed words and intentions alike. Elders say the land protects itself — it listens, but never replies."
+  },
+  {
+    "id": "lore-009",
+    "title": "The Mirror Lake Bride",
+    "place": "Udaipur, Rajasthan, India",
+    "image": "https://images.unsplash.com/photo-1473186578172-c141e6798cf4",
+    "author": "Boatman’s Tale",
+    "category": "Tragic Romance",
+    "intro": "At dawn, a bride is seen standing in the reflection of the lake — but never on the shore.",
+    "story": "A royal wedding once ended in betrayal, and the bride vanished into the lake’s depths. Fishermen say that when the water is still, her reflection appears dressed in red, waiting for vows that were never spoken."
+  },
+  {
+    "id": "lore-010",
+    "title": "The Banyan’s Hidden Door",
+    "place": "Varanasi, Uttar Pradesh, India",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    "author": "Street Storyteller",
+    "category": "Sacred Tree",
+    "intro": "Children believe an ancient banyan tree hides a doorway to another world.",
+    "story": "Carvings in its bark resemble doors and windows. Some say at midnight, if you walk around it seven times and whisper your wish, the tree opens briefly. No one admits to seeing it — but no one denies it either."
+  },
+  {
+    "id": "lore-011",
+    "title": "The Monsoon Drummer",
+    "place": "Cherrapunji, Meghalaya, India",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "author": "Khasi Folklore",
+    "category": "Rain Spirit",
+    "intro": "Before the heaviest rains begin, distant drumbeats echo through the hills.",
+    "story": "Villagers say a spirit announces the monsoon with rhythmic drumming. Farmers prepare their fields when they hear it. Skeptics call it thunder — believers say thunder does not keep time."
+  },
+  {
+    "id": "lore-012",
+    "title": "The Lighthouse That Calls",
+    "place": "Diu, Gujarat, India",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "author": "Coastal Fisherman",
+    "category": "Sea Legend",
+    "intro": "Sailors claim the old lighthouse hums when storms approach.",
+    "story": "Long after it was abandoned, fishermen reported hearing a low hum from the tower before rough seas. Some say it is the spirit of a keeper who once saved dozens of lives by lighting the way through a cyclone."
+  },
+  {
+    "id": "lore-013",
+    "title": "The Red Sand Footprints",
+    "place": "Rann of Kutch, Gujarat, India",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "author": "Nomadic Elder",
+    "category": "Desert Mystery",
+    "intro": "Footprints appear in the red sand overnight — leading nowhere.",
+    "story": "Camel herders wake to find fresh tracks circling their tents. They follow them only to see them fade mid-step. Elders insist the desert walks at night when no one is watching."
+  },
+  {
+    "id": "lore-014",
+    "title": "The Library That Rearranges Itself",
+    "place": "Kolkata, West Bengal, India",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "author": "Old Librarian",
+    "category": "Urban Folklore",
+    "intro": "Books shift shelves after closing time.",
+    "story": "A colonial-era library is said to reorder its books when left alone. Rare manuscripts are found open to pages marked with cryptic symbols. The staff insists it is only drafts, but none stay overnight willingly."
+  },
+  {
+    "id": "lore-015",
+    "title": "The Hill of Vanishing Lights",
+    "place": "Ooty, Tamil Nadu, India",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "author": "Tea Estate Worker",
+    "category": "Hill Legend",
+    "intro": "Small lantern lights move across the hills and disappear at the summit.",
+    "story": "Workers on late shifts report floating lights gliding silently uphill. They vanish at the old stone ruins at the top. Some say they are ancestral spirits returning home."
   }
 ]
+
