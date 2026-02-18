@@ -8,6 +8,7 @@ export let createCard=(cardData,cardsContainer)=>{
         cardImg.classList.add("card-img");
         cardImg.setAttribute("src",cardDetail.image);
         cardImg.setAttribute("alt",cardDetail.title);
+        cardImg.setAttribute("loading", "lazy");
         cardImgContainer.appendChild(cardImg);
         cardContainer.appendChild(cardImgContainer);
 
