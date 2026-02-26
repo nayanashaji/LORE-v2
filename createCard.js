@@ -35,6 +35,12 @@ export let createCard=(cardData,cardsContainer)=>{
         intro.innerText=`"${cardDetail.intro}.."`;
         cardContainer.appendChild(intro);
 
+        const more=document.createElement("a");
+        more.setAttribute("href","index.html");
+        more.innerText="Read More...";
+        more.classList.add("more-btn");
+        cardContainer.appendChild(more);
+
         cardsContainer.appendChild(cardContainer);
     }
 }

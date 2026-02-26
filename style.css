@@ -207,6 +207,8 @@
     font-weight: bolder;
     margin-bottom: 5px;
     line-height: 20px;
+    position: relative;
+    left: 0.1rem;
 }
 
 .intro{
@@ -240,4 +242,12 @@
     .nav-comp {
         display: none;
     }
+}
+
+.more-btn{
+    text-decoration: none;
+    color: #3a2a14a4 ;
+    width: 100%;
+    text-align: left;
+    padding-left: 0.6rem;
 }
