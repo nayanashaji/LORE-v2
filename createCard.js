@@ -36,7 +36,7 @@ export let createCard=(cardData,cardsContainer)=>{
         cardContainer.appendChild(intro);
 
         const more=document.createElement("a");
-        more.setAttribute("href","index.html");
+        more.setAttribute("href",`story.html?id=${cardDetail.id}`);
         more.innerText="Read More...";
         more.classList.add("more-btn");
         cardContainer.appendChild(more);
