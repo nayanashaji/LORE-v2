@@ -17,14 +17,18 @@ let imageContainer=document.createElement("div");
 
 let image=document.createElement("img");
 image.setAttribute("src",`${storySelected.image}`);
+image.classList.add("story-img");
 
 imageContainer.appendChild(image);
 
 story.appendChild(imageContainer);
 
+let contentContainer=document.createElement("div");
+contentContainer.classList.add("content-container");
+
 let title=document.createElement("h1");
 title.innerText=storySelected.title;
-story.appendChild(title);
+contentContainer.appendChild(title);
 
 const subTitle=document.createElement("div");
 subTitle.classList.add("sub-title");
@@ -41,8 +45,10 @@ const orgAuthor=document.createElement("p");
 orgAuthor.innerText=`Original Author: ${storySelected.author}`
 subTitle.appendChild(orgAuthor);
 
-story.appendChild(subTitle);
+contentContainer.appendChild(subTitle);
 
 const storyDetail=document.createElement("p");
 storyDetail.innerText=storySelected.story;
-story.appendChild(storyDetail);
+contentContainer.appendChild(storyDetail);
+
+story.appendChild(contentContainer);
