@@ -7,7 +7,12 @@
     "author": "Anonymous Villager",
     "category": "Haunted Nature",
     "intro": "In the flooded fields of Kuttanad stands a tamarind tree that villagers avoid after sunset. They say it weeps.",
-    "story": "Long ago, a young widow was accused of witchcraft during a season of failed harvests. Shunned and beaten, she sought refuge beneath the tamarind tree at the edge of the fields. One stormy night, she was found lifeless there. Since then, villagers say that when the monsoon winds blow, the tree drips not rainwater—but tears. Fishermen passing at dusk claim to hear a woman humming lullabies. Crops planted too close to the tree never thrive. Elders warn children not to mock the wind near it, for grief, they say, never truly leaves the soil."
+    "story": "Long ago, a young widow was accused of witchcraft during a season of failed harvests. Shunned and beaten, she sought refuge beneath the tamarind tree at the edge of the fields. One stormy night, she was found lifeless there. Since then, villagers say that when the monsoon winds blow, the tree drips not rainwater—but tears. Fishermen passing at dusk claim to hear a woman humming lullabies. Crops planted too close to the tree never thrive. Elders warn children not to mock the wind near it, for grief, they say, never truly leaves the soil.",
+    "comments": [
+      "My grandmother warned us about trees like this.",
+      "Feels eerie but also sad.",
+      "We have a similar story in my village."
+    ]
   },
   {
     "id": "lore-002",
@@ -17,7 +22,12 @@
     "author": "Oral Tradition",
     "category": "Mysterious Apparition",
     "intro": "During fog-heavy nights, a woman carrying a lantern is seen walking toward the cliffs of Jatinga.",
-    "story": "In the hills of Jatinga, where birds are known to fall from the sky during certain seasons, villagers speak of a silent woman wrapped in white. She appears only when the fog thickens and lights a lantern that glows unnaturally bright. Hunters once followed her, believing she would lead them to prey. Instead, she vanished at the edge of a cliff where many birds had fallen. Some believe she is the spirit of a grieving mother searching for her lost child. Others say she lures wandering souls away from danger. No one who sees her ever feels fear—only a strange calm."
+    "story": "In the hills of Jatinga, where birds are known to fall from the sky during certain seasons, villagers speak of a silent woman wrapped in white. She appears only when the fog thickens and lights a lantern that glows unnaturally bright. Hunters once followed her, believing she would lead them to prey. Instead, she vanished at the edge of a cliff where many birds had fallen. Some believe she is the spirit of a grieving mother searching for her lost child. Others say she lures wandering souls away from danger. No one who sees her ever feels fear—only a strange calm.",
+    "comments": [
+      "I’ve heard about the bird mystery there too.",
+      "This gave me chills.",
+      "Strangely comforting story."
+    ]
   },
   {
     "id": "lore-003",
@@ -27,7 +37,12 @@
     "author": "Hyderabad Folklore",
     "category": "Historical Echo",
     "intro": "Visitors say the walls of Golconda Fort carry voices long after the crowds leave.",
-    "story": "Golconda’s stones have witnessed ambition, betrayal, and siege. It is said that during the fall of the fort, a loyal guard refused to reveal a secret passage to invading forces. Tortured within the inner chambers, he swore his silence to his last breath. Guides today demonstrate the famous acoustic system of the fort—but some claim that after sunset, claps echo differently. Soft murmurs, almost like warnings, drift through empty corridors. Security guards working night shifts report hearing footsteps where no one stands. Whether history imprinted itself on the stone or guilt lingers in the air, the fort does not sleep easily."
+    "story": "Golconda’s stones have witnessed ambition, betrayal, and siege. It is said that during the fall of the fort, a loyal guard refused to reveal a secret passage to invading forces. Tortured within the inner chambers, he swore his silence to his last breath. Guides today demonstrate the famous acoustic system of the fort—but some claim that after sunset, claps echo differently. Soft murmurs, almost like warnings, drift through empty corridors. Security guards working night shifts report hearing footsteps where no one stands. Whether history imprinted itself on the stone or guilt lingers in the air, the fort does not sleep easily.",
+    "comments": [
+      "I visited here and the echoes are real!",
+      "History always leaves something behind.",
+      "Now I want to go there at night 👀"
+    ]
   },
   {
     "id": "lore-004",
@@ -37,7 +52,12 @@
     "author": "Rajasthan Oral Tales",
     "category": "Cursed Love",
     "intro": "In the ruins of Bhangarh, locals whisper about a bride whose wedding night never arrived.",
-    "story": "A beautiful princess of Bhangarh was once desired by a sorcerer who knew she would never love him. Enraged, he cast a spell meant to bind her heart. The magic backfired, bringing ruin upon the kingdom instead. On the eve of her wedding, war broke out and the palace fell. Some believe the princess still wanders the broken halls in bridal attire, waiting for ceremonies that never happened. Travelers claim that bangles can be heard clinking softly when the wind moves through the ruins. Authorities forbid entry after sunset—but stories rarely obey rules."
+    "story": "A beautiful princess of Bhangarh was once desired by a sorcerer who knew she would never love him. Enraged, he cast a spell meant to bind her heart. The magic backfired, bringing ruin upon the kingdom instead. On the eve of her wedding, war broke out and the palace fell. Some believe the princess still wanders the broken halls in bridal attire, waiting for ceremonies that never happened. Travelers claim that bangles can be heard clinking softly when the wind moves through the ruins. Authorities forbid entry after sunset—but stories rarely obey rules.",
+    "comments": [
+      "Classic tragic love story.",
+      "Bhangarh always gives creepy vibes.",
+      "This one feels like a movie plot."
+    ]
   },
   {
     "id": "lore-005",
@@ -47,7 +67,12 @@
     "author": "Khasi Tradition",
     "category": "Nature Spirit",
     "intro": "Fishermen speak of a river that sings before claiming a life.",
-    "story": "In the mist-covered hills of Meghalaya flows a river locals treat with reverence. Elders say it is guarded by a spirit who sings softly at night. The melody is beautiful but sorrowful, drifting across the water like a warning. Those who ignore rituals and fish greedily often report hearing the song grow louder before sudden accidents occur—boats tipping, nets tangling. The Khasi believe the river spirit demands respect, not fear. Offerings of flowers are still placed along the banks during certain festivals. When the wind moves just right, the water almost hums."
+    "story": "In the mist-covered hills of Meghalaya flows a river locals treat with reverence. Elders say it is guarded by a spirit who sings softly at night. The melody is beautiful but sorrowful, drifting across the water like a warning. Those who ignore rituals and fish greedily often report hearing the song grow louder before sudden accidents occur—boats tipping, nets tangling. The Khasi believe the river spirit demands respect, not fear. Offerings of flowers are still placed along the banks during certain festivals. When the wind moves just right, the water almost hums.",
+    "comments": [
+      "Nature deserves respect, honestly.",
+      "Beautiful but slightly scary.",
+      "The imagery here is amazing."
+    ]
   },
   {
     "id": "lore-006",
@@ -57,7 +82,12 @@
     "author": "Temple Caretaker",
     "category": "Sacred Mystery",
     "intro": "In a small temple courtyard, a bell rings every evening — even when no one pulls the rope.",
-    "story": "The old stone temple once had a devoted priest who never missed the sunset ritual. When he passed, the village feared the evening prayers would cease. But on the first dusk after his funeral, the bell rang on its own. It has continued ever since. Locals believe devotion echoes longer than life itself."
+    "story": "The old stone temple once had a devoted priest who never missed the sunset ritual. When he passed, the village feared the evening prayers would cease. But on the first dusk after his funeral, the bell rang on its own. It has continued ever since. Locals believe devotion echoes longer than life itself.",
+    "comments": [
+      "This is oddly peaceful.",
+      "Faith really stays beyond people.",
+      "He still keeps his duty 🕯️"
+    ]
   },
   {
     "id": "lore-007",
@@ -67,7 +97,12 @@
     "author": "Desert Guide",
     "category": "Desert Legend",
     "intro": "A lone watchtower in the desert is said to glow faintly under moonlight.",
-    "story": "Built centuries ago to guard caravan routes, the tower once housed a young sentinel who fell in love with a merchant’s daughter. He waited nightly for her return, but she never came. Travelers say a faint golden light still flickers from the top on quiet nights, as though someone still keeps watch."
+    "story": "Built centuries ago to guard caravan routes, the tower once housed a young sentinel who fell in love with a merchant’s daughter. He waited nightly for her return, but she never came. Travelers say a faint golden light still flickers from the top on quiet nights, as though someone still keeps watch.",
+    "comments": [
+      "The desert has so many hidden stories.",
+      "This one feels lonely.",
+      "That ending hits hard."
+    ]
   },
   {
     "id": "lore-008",
@@ -77,7 +112,12 @@
     "author": "Local Trekker",
     "category": "Nature Mystery",
     "intro": "Deep in the forest, echoes vanish before they return.",
-    "story": "Hunters once tested the woods by shouting into the trees, but no echo answered back. They claimed the forest absorbed words and intentions alike. Elders say the land protects itself — it listens, but never replies."
+    "story": "Hunters once tested the woods by shouting into the trees, but no echo answered back. They claimed the forest absorbed words and intentions alike. Elders say the land protects itself — it listens, but never replies.",
+    "comments": [
+      "This is genuinely unsettling.",
+      "Silence can be scarier than noise.",
+      "Now I want to visit 😭"
+    ]
   },
   {
     "id": "lore-009",
@@ -87,7 +127,12 @@
     "author": "Boatman’s Tale",
     "category": "Tragic Romance",
     "intro": "At dawn, a bride is seen standing in the reflection of the lake — but never on the shore.",
-    "story": "A royal wedding once ended in betrayal, and the bride vanished into the lake’s depths. Fishermen say that when the water is still, her reflection appears dressed in red, waiting for vows that were never spoken."
+    "story": "A royal wedding once ended in betrayal, and the bride vanished into the lake’s depths. Fishermen say that when the water is still, her reflection appears dressed in red, waiting for vows that were never spoken.",
+    "comments": [
+      "That reflection detail is haunting.",
+      "Feels like a story frozen in time.",
+      "Water always carries secrets."
+    ]
   },
   {
     "id": "lore-010",
@@ -97,7 +142,12 @@
     "author": "Street Storyteller",
     "category": "Sacred Tree",
     "intro": "Children believe an ancient banyan tree hides a doorway to another world.",
-    "story": "Carvings in its bark resemble doors and windows. Some say at midnight, if you walk around it seven times and whisper your wish, the tree opens briefly. No one admits to seeing it — but no one denies it either."
+    "story": "Carvings in its bark resemble doors and windows. Some say at midnight, if you walk around it seven times and whisper your wish, the tree opens briefly. No one admits to seeing it — but no one denies it either.",
+    "comments": [
+      "I love stories about hidden worlds.",
+      "The number 7 detail is interesting.",
+      "This feels like something children truly believe."
+    ]
   },
   {
     "id": "lore-011",
@@ -107,7 +157,12 @@
     "author": "Khasi Folklore",
     "category": "Rain Spirit",
     "intro": "Before the heaviest rains begin, distant drumbeats echo through the hills.",
-    "story": "Villagers say a spirit announces the monsoon with rhythmic drumming. Farmers prepare their fields when they hear it. Skeptics call it thunder — believers say thunder does not keep time."
+    "story": "Villagers say a spirit announces the monsoon with rhythmic drumming. Farmers prepare their fields when they hear it. Skeptics call it thunder — believers say thunder does not keep time.",
+    "comments": [
+      "Rain and rhythm — beautiful combination.",
+      "Nature communicating in its own way.",
+      "Now I want to hear those drums."
+    ]
   },
   {
     "id": "lore-012",
@@ -117,7 +172,12 @@
     "author": "Coastal Fisherman",
     "category": "Sea Legend",
     "intro": "Sailors claim the old lighthouse hums when storms approach.",
-    "story": "Long after it was abandoned, fishermen reported hearing a low hum from the tower before rough seas. Some say it is the spirit of a keeper who once saved dozens of lives by lighting the way through a cyclone."
+    "story": "Long after it was abandoned, fishermen reported hearing a low hum from the tower before rough seas. Some say it is the spirit of a keeper who once saved dozens of lives by lighting the way through a cyclone.",
+    "comments": [
+      "The sea always has stories like this.",
+      "Lighthouses feel lonely but powerful.",
+      "This one gave me chills."
+    ]
   },
   {
     "id": "lore-013",
@@ -127,7 +187,12 @@
     "author": "Nomadic Elder",
     "category": "Desert Mystery",
     "intro": "Footprints appear in the red sand overnight — leading nowhere.",
-    "story": "Camel herders wake to find fresh tracks circling their tents. They follow them only to see them fade mid-step. Elders insist the desert walks at night when no one is watching."
+    "story": "Camel herders wake to find fresh tracks circling their tents. They follow them only to see them fade mid-step. Elders insist the desert walks at night when no one is watching.",
+    "comments": [
+      "The desert imagery is so vivid.",
+      "Footprints disappearing is terrifying.",
+      "Feels like the land is alive."
+    ]
   },
   {
     "id": "lore-014",
@@ -137,7 +202,12 @@
     "author": "Old Librarian",
     "category": "Urban Folklore",
     "intro": "Books shift shelves after closing time.",
-    "story": "A colonial-era library is said to reorder its books when left alone. Rare manuscripts are found open to pages marked with cryptic symbols. The staff insists it is only drafts, but none stay overnight willingly."
+    "story": "A colonial-era library is said to reorder its books when left alone. Rare manuscripts are found open to pages marked with cryptic symbols. The staff insists it is only drafts, but none stay overnight willingly.",
+    "comments": [
+      "Books moving on their own? Nope 😭",
+      "This is like a horror movie setup.",
+      "Libraries already feel mysterious at night."
+    ]
   },
   {
     "id": "lore-015",
@@ -147,7 +217,12 @@
     "author": "Tea Estate Worker",
     "category": "Hill Legend",
     "intro": "Small lantern lights move across the hills and disappear at the summit.",
-    "story": "Workers on late shifts report floating lights gliding silently uphill. They vanish at the old stone ruins at the top. Some say they are ancestral spirits returning home."
+    "story": "Workers on late shifts report floating lights gliding silently uphill. They vanish at the old stone ruins at the top. Some say they are ancestral spirits returning home.",
+    "comments": [
+      "Floating lights are always eerie.",
+      "This feels peaceful more than scary.",
+      "I’ve heard similar stories from hill stations."
+    ]
   }
 ]
 

@@ -3,6 +3,8 @@ import { cardData } from "./getCardDetails.js";
 const cardArray=await cardData();
 
 let story=document.querySelector(".story");
+let comments=document.querySelector(".comments");
+
 const urlParams = new URLSearchParams(window.location.search);
 const storyId = urlParams.get('id');
 
@@ -52,3 +54,11 @@ storyDetail.innerText=storySelected.story;
 contentContainer.appendChild(storyDetail);
 
 story.appendChild(contentContainer);
+
+let commentArray=storySelected.comments;
+for(let comment of commentArray){
+    let commentBox=document.createElement("div");
+    commentBox.innerText=comment;
+    commentBox.classList.add("comment-box")
+    comments.appendChild(commentBox);
+}
