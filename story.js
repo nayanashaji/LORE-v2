@@ -58,7 +58,46 @@ story.appendChild(contentContainer);
 let commentArray=storySelected.comments;
 for(let comment of commentArray){
     let commentBox=document.createElement("div");
-    commentBox.innerText=comment;
     commentBox.classList.add("comment-box")
+
+    let commentHeader=document.createElement("div");
+    commentHeader.classList.add("comment-header");
+
+    let commentAuthor=document.createElement("span");
+    commentAuthor.innerText=comment.user;
+    commentAuthor.classList.add("comment-author");
+    commentHeader.appendChild(commentAuthor);
+
+    let commentTime=document.createElement("span");
+    commentTime.innerText=comment.time;
+    commentTime.classList.add("comment-time");
+    commentHeader.appendChild(commentTime);
+
+    commentBox.appendChild(commentHeader);
+
+    let commentText=document.createElement("p");
+    commentText.innerText=comment.text;
+    commentText.classList.add("comment-text");
+    commentBox.appendChild(commentText);
+
+    let commentLikes = document.createElement("span");
+    commentLikes.classList.add("comment-likes");
+
+    let commentIcon = document.createElement("i");
+    commentIcon.classList.add("fa-regular", "fa-thumbs-up");
+
+    let likeText = document.createElement("span");
+    likeText.innerText = ` ${comment.likes}`;
+
+    commentLikes.appendChild(commentIcon);
+    commentLikes.appendChild(likeText);
+
+    commentBox.appendChild(commentLikes);
+
     comments.appendChild(commentBox);
+
+    commentLikes.addEventListener("click", () => {
+    comment.likes++;
+    likeText.innerText = ` ${comment.likes}`;
+});
 }

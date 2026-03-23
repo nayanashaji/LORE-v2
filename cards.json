@@ -9,9 +9,18 @@
     "intro": "In the flooded fields of Kuttanad stands a tamarind tree that villagers avoid after sunset. They say it weeps.",
     "story": "Long ago, a young widow was accused of witchcraft during a season of failed harvests. Shunned and beaten, she sought refuge beneath the tamarind tree at the edge of the fields. One stormy night, she was found lifeless there. Since then, villagers say that when the monsoon winds blow, the tree drips not rainwater—but tears. Fishermen passing at dusk claim to hear a woman humming lullabies. Crops planted too close to the tree never thrive. Elders warn children not to mock the wind near it, for grief, they say, never truly leaves the soil.",
     "comments": [
-      "My grandmother warned us about trees like this.",
-      "Feels eerie but also sad.",
-      "We have a similar story in my village."
+      {
+        "user": "Anjali Nair",
+        "text": "My grandmother used to warn us about trees like this.",
+        "time": "Mar 18, 2026 • 09:12",
+        "likes": 3
+      },
+      {
+        "user": "Rahul Menon",
+        "text": "Feels eerie but also sad somehow.",
+        "time": "Mar 18, 2026 • 11:45",
+        "likes": 2
+      }
     ]
   },
   {
@@ -24,9 +33,18 @@
     "intro": "During fog-heavy nights, a woman carrying a lantern is seen walking toward the cliffs of Jatinga.",
     "story": "In the hills of Jatinga, where birds are known to fall from the sky during certain seasons, villagers speak of a silent woman wrapped in white. She appears only when the fog thickens and lights a lantern that glows unnaturally bright. Hunters once followed her, believing she would lead them to prey. Instead, she vanished at the edge of a cliff where many birds had fallen. Some believe she is the spirit of a grieving mother searching for her lost child. Others say she lures wandering souls away from danger. No one who sees her ever feels fear—only a strange calm.",
     "comments": [
-      "I’ve heard about the bird mystery there too.",
-      "This gave me chills.",
-      "Strangely comforting story."
+      {
+        "user": "Priya Das",
+        "text": "I’ve heard about the bird mystery there too.",
+        "time": "Mar 19, 2026 • 14:22",
+        "likes": 5
+      },
+      {
+        "user": "Arjun Roy",
+        "text": "This gave me chills. Especially the fog detail.",
+        "time": "Mar 19, 2026 • 16:10",
+        "likes": 1
+      }
     ]
   },
   {
@@ -39,9 +57,18 @@
     "intro": "Visitors say the walls of Golconda Fort carry voices long after the crowds leave.",
     "story": "Golconda’s stones have witnessed ambition, betrayal, and siege. It is said that during the fall of the fort, a loyal guard refused to reveal a secret passage to invading forces. Tortured within the inner chambers, he swore his silence to his last breath. Guides today demonstrate the famous acoustic system of the fort—but some claim that after sunset, claps echo differently. Soft murmurs, almost like warnings, drift through empty corridors. Security guards working night shifts report hearing footsteps where no one stands. Whether history imprinted itself on the stone or guilt lingers in the air, the fort does not sleep easily.",
     "comments": [
-      "I visited here and the echoes are real!",
-      "History always leaves something behind.",
-      "Now I want to go there at night 👀"
+      {
+        "user": "Imran Khan",
+        "text": "I visited here and the echoes are real!",
+        "time": "Mar 20, 2026 • 10:05",
+        "likes": 6
+      },
+      {
+        "user": "Sneha Reddy",
+        "text": "Now I want to go there at night 😭",
+        "time": "Mar 20, 2026 • 12:30",
+        "likes": 2
+      }
     ]
   },
   {

@@ -42,5 +42,9 @@ export let createCard=(cardData,cardsContainer)=>{
         cardContainer.appendChild(more);
 
         cardsContainer.appendChild(cardContainer);
+
+        cardContainer.addEventListener("click",(e)=>{
+            window.location.href=`story.html?id=${cardDetail.id}`;
+        })
     }
 }
